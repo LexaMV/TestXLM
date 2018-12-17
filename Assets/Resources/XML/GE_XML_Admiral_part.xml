@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docpart version="1.0.0.1">
+  <admiral>
+    <id>my</id>
+    <name>my</name>
+    <description>my</description>
+    <photo>my</photo>
+  </admiral>
+  <admiral>
+    <id>1</id>
+    <name>2</name>
+    <description>3</description>
+    <photo>4</photo>
+  </admiral>
+  <admiral>
+    <id>33</id>
+    <name>334</name>
+    <description>33</description>
+    <photo>33</photo>
+  </admiral>
+  <admiral>
+    <id>123</id>
+    <name>123</name>
+    <description>123</description>
+    <photo>123</photo>
+  </admiral>
+</docpart>
